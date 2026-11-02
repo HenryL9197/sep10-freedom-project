@@ -9,7 +9,8 @@ Topic: **EMS**
 
 ##### Software
 * ImageTrend Elite
-  * It is a software used by over 9,000+ agency that turns real time data into analytics that make critical decisions clear. It also aide in  EMS incident reporting and documentation that gives crews time back from typing up the paperwork whilst treating a patient, using voice-to-text technology, so they can focus on treating the patient more attentively.
+  * It is a software used by over 9,000+ agencies that turns real time data into analytics that make critical decisions clear.
+  * Image trend also aids in  EMS incident reporting and documentation that gives crews time back from typing up the paperwork whilst treating a patient, using voice-to-text technology, so they can focus on treating the patient more attentively.
    <img src="https://github.com/user-attachments/assets/c6d7ed61-d67d-4bd5-8509-04718f6d476b" />
 
 ##### Hardware
