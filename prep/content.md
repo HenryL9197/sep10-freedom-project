@@ -9,7 +9,8 @@ Topic: **EMS**
 
 ##### Software
 * ImageTrend Elite
-  * It is a software used by over 9,000+ agencies that turns real time data into analytics that make critical decisions clear.
+  * It is a software used by over
+  * 9,000+ agencies that turns real time data into analytics that make critical decisions clear.
   * Image trend also aids in  EMS incident reporting and documentation that gives crews time back from typing up the paperwork whilst treating a patient, using voice-to-text technology, so they can focus on treating the patient more attentively.
    <img src="https://github.com/user-attachments/assets/c6d7ed61-d67d-4bd5-8509-04718f6d476b" />
 
@@ -17,7 +18,11 @@ Topic: **EMS**
 * Computer Aided Dispatch (CAD)
   * A Computer Aided Dispatch (CAD) is a laptop/tablet that EMTs/Paramedics use to manage 911 calls, log incident details, tracks real time GPS ambulance locations, and routes to the closet unit or hospital-type facilities.
   <img src="https://github.com/user-attachments/assets/c03038e6-c82d-44fc-9af8-ef26fcfa3418" />
- 
+* Motorola APX 8000 All-Band Portable Radio  
+  * 4-in-1 radio that offers limitless interoperability, the clearest, loudest audio and seamless Wi-Fi connectivity.
+  * It is frequently used in all types of public safety industries such as law enforcement, fir & Rescue, etc.
+<img width="662" height="431" alt="Screenshot 2026-11-02 9 44 39 AM" src="https://github.com/user-attachments/assets/522f821c-b7c6-4527-8b65-909544a7497e" />
+
 
 ## Part B: possible future technology
 * Predictive Hospital Load Tracking
