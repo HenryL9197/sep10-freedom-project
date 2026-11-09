@@ -17,6 +17,7 @@ Topic: **EMS**
 ##### Hardware
 * Computer Aided Dispatch (CAD)
   * A Computer Aided Dispatch (CAD) is a laptop/tablet that EMTs/Paramedics use to manage 911 calls, log incident details, tracks real time GPS ambulance locations, and routes to the closet unit or hospital-type facilities.
+  * CADs are also used for report writing and checking background on an ID (however it's used mostly for law enforcement.)
   <img src="https://github.com/user-attachments/assets/c03038e6-c82d-44fc-9af8-ef26fcfa3418" />
 * Motorola APX 8000 All-Band Portable Radio  
   * 4-in-1 radio that offers limitless interoperability, the clearest, loudest audio and seamless Wi-Fi connectivity.
@@ -26,4 +27,5 @@ Topic: **EMS**
 
 ## Part B: possible future technology
 * Predictive Hospital Load Tracking
-  * With the new influx of AI, we can use these tools to track ER capacity, open beds, and staff availability across whole regions in real time, routing ambulances to hospitals that least likely to cause extended offload delays, as currently hospital emergency rooms across the country are heavily overcrowded, ambulances frequently face hours of "waiting in hallways" just for an ER bed to open up so they can transfer care of the patient, which means that the hours they spend waiting for a bed to open, can be used to help the community more efficiently.
+  * With the new influx of AI, we can use these tools to track ER capacity, open beds, and staff availability across whole regions in real time, routing ambulances to hospitals that least likely to cause extended offload delays.
+  *  as currently hospital emergency rooms across the country are heavily overcrowded, ambulances frequently face hours of "waiting in hallways" just for an ER bed to open up so they can transfer care of the patient, which means that the hours they spend waiting for a bed to open, can be used to help the community more efficiently.
